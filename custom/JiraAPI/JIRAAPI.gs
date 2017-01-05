@@ -1,3 +1,5 @@
+// https://github.com/stardotbmp/gas_JIRA_API
+
 function test() {
   var endpoint = "priority/",
       parameters = "{}",
